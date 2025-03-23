@@ -1,0 +1,19 @@
+views
+3D views
+plan view
+current ucs
+
+
+views
+visual styles
+2d wireframe
+
+views
+Display
+UCS icon Off
+
+Format
+Units
+Length Type: Engineering
+Precision: 0'.0.00"
+Insertion scale: inches
